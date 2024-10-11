@@ -1,5 +1,4 @@
-Here’s a draft README file for a GitHub repository for a Potato Leaf Disease Analysis project:
-
+# Note - The project is on master branch..
 ---
 
 # Potato Leaf Disease Analysis
